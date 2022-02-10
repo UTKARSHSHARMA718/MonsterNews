@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MonsterNews/static/css/main.0aed8e85.chunk.css",
+    "main.js": "/MonsterNews/static/js/main.32ade269.chunk.js",
+    "main.js.map": "/MonsterNews/static/js/main.32ade269.chunk.js.map",
+    "runtime-main.js": "/MonsterNews/static/js/runtime-main.38204a12.js",
+    "runtime-main.js.map": "/MonsterNews/static/js/runtime-main.38204a12.js.map",
+    "static/js/2.2e9b8636.chunk.js": "/MonsterNews/static/js/2.2e9b8636.chunk.js",
+    "static/js/2.2e9b8636.chunk.js.map": "/MonsterNews/static/js/2.2e9b8636.chunk.js.map",
+    "static/js/3.38f137de.chunk.js": "/MonsterNews/static/js/3.38f137de.chunk.js",
+    "static/js/3.38f137de.chunk.js.map": "/MonsterNews/static/js/3.38f137de.chunk.js.map",
+    "index.html": "/MonsterNews/index.html",
+    "static/css/main.0aed8e85.chunk.css.map": "/MonsterNews/static/css/main.0aed8e85.chunk.css.map",
+    "static/js/2.2e9b8636.chunk.js.LICENSE.txt": "/MonsterNews/static/js/2.2e9b8636.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38204a12.js",
+    "static/js/2.2e9b8636.chunk.js",
+    "static/css/main.0aed8e85.chunk.css",
+    "static/js/main.32ade269.chunk.js"
+  ]
+}
