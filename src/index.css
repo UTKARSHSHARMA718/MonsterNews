@@ -1,0 +1,25 @@
+#publisher{
+    z-index: 1;
+}
+.start-100 {
+    left: 92%!important;
+}
+.cardnoty{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+ 
+
+body{
+    background-color: rgb(141 107 255);
+}
+.card{
+    width: 420px;
+    margin-top: 20px;
+    margin-left: 20xp;
+    margin-right: 20xp;
+    height: 500px;
+}
